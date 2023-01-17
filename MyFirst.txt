@@ -1,1 +1,5 @@
 Adding from main branch fro the testing
+ORANGE
+APPLE
+MANGO
+BANANA
